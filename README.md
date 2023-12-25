@@ -1,2 +1,2 @@
 # sna_youtube
-Social Network Analysis of Alex Leonidas and connected channels
+Social Network Analysis of the channel Bioneer and connected channels at subscriber depth 1
