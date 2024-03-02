@@ -14,3 +14,5 @@ The repository contains the following files:
 - [clustering_triangles.ipynb](clustering_triangles.ipynb) - Jupyter notebook with the analysis of the clustering coefficient and triangles
 - [degree_with_centralities.ipynb](degree_with_centralities.ipynb) - Jupyter notebook with the analysis of the degree with centralities (betweenness, closeness, eigenvector)
 - [homophily_and_ei_index.ipynb](homophily_and_ei_index.ipynb) - Jupyter notebook with the analysis of the homophily using various ways, including the EI index
+
+Lastly, the analytical report is available in the following file: [Report](Report.pdf).
